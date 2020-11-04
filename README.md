@@ -2,9 +2,9 @@
 Repositorio GitHub para el trabajo final de curso de Programación 2
 ### Integrantes del Grupo:
 
--Traverso Palomino Deneb
+- Traverso Palomino Deneb
 
--Cahuas Vergara Miguel
+- Cahuas Vergara Miguel
 
--Guerrero Huari César
+- Guerrero Huari César
 ### Sección: SV22
